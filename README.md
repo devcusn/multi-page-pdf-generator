@@ -28,6 +28,14 @@ const container = document.getElementById("pdf-container");
 generatePDF(container, "output-filename");
 ```
 
+## Running Example Project
+
+To run the example project, use:
+
+```bash
+npx webpack --config webpack.config.js
+```
+
 ## API
 
 ### generatePDF(elementRef, pdfName)
