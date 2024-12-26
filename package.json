@@ -1,0 +1,25 @@
+{
+  "name": "multi-page-pdf-generator",
+  "version": "1.0.0",
+  "description": "A utility for generating PDFs from HTML content using jsPDF and html2canvas.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devcusn/-multi-page-pdf-generator.git"
+  },
+  "keywords": [
+    "pdf",
+    "jsPDF",
+    "html2canvas",
+    "react",
+    "pdf generation"
+  ],
+  "author": "devcusn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devcusn/-multi-page-pdf-generator/issues"
+  },
+  "homepage": "https://github.com/devcusn/-multi-page-pdf-generator#readme"
+}
